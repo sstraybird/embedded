@@ -56,7 +56,7 @@ _start:
     str r1,[r0]
 
     /*
-     * 描述： loop死循环        
+     * 描述： loop死循环      
      */
      loop:
         b loop
